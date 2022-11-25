@@ -1,0 +1,12 @@
+body{
+    border: 5px solid darkcyan;
+    background-color: lightcyan;
+    border-radius: 2px;
+    
+    text-align: center;
+    padding: 302px;
+}
+
+.message003{
+    color: #ff0000
+}
